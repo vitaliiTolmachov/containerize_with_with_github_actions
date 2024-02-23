@@ -3,8 +3,6 @@
 #Custom
 db/
 compose.yaml
-src/obj
-src/bin
 
 # compiled output
 /dist
